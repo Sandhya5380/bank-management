@@ -71,7 +71,7 @@ public class App
               amount=scan.nextDouble();
               if(amount>0)
               {
-            	  amountstatus=false;
+            	  amountstatus=true;
               }
               else
               {
